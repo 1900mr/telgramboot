@@ -3,7 +3,7 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 
 // استبدل 'YOUR_BOT_TOKEN_HERE' بالتوكن الخاص بالبوت الذي حصلت عليه من BotFather
-const bot = new TelegramBot('YOUR_BOT_TOKEN_HERE', { polling: true });
+const bot = new TelegramBot(7203035834:AAFsWjHtF2q3p-dGH_6mm9IykYqX4Erfrnc, { polling: true });
 
 // تحميل البيانات من ملف Excel
 let students = {};
